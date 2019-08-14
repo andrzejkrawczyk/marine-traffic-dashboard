@@ -1,7 +1,7 @@
 # Marine Traffic Dashboard
 Marine traffic dashboard
 
-# Add marine traffic csv as 'ships.csv' next to app.R file
+Add marine traffic csv as 'ships.csv' next to app.R file
 
 # Build image and push to GCP container registry:
 *docker build -t <image-name> .*
